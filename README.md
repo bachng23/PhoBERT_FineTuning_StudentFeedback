@@ -3,7 +3,7 @@ Dự án sử dụng mô hình ngôn ngữ **PhoBERT** (VinAI) được tinh ch�
 
 ## 🌟 Trải nghiệm ngay (Live Demo)
 
-👉 **Bấm vào đây để dùng thử Web App:** **[LINK_WEB_STREAMLIT_CUA_BAN_TAI_DAY](https://share.streamlit.io/...)**
+👉 **Bấm vào đây để dùng thử Web App:** **[[LINK_WEB_STREAMLIT_CUA_BAN_TAI_DAY](https://share.streamlit.io/...)](https://phobert-finetuned-student-feedback.streamlit.app/)**
 
 *(Chờ khoảng 30s để App khởi động lần đầu)*
 
