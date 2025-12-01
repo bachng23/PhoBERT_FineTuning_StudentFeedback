@@ -1,0 +1,8 @@
+my_model/
+.venv/
+data/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+upload_model.py
