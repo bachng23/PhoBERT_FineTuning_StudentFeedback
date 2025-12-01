@@ -8,7 +8,11 @@ Dự án sử dụng mô hình ngôn ngữ **PhoBERT** (VinAI) được tinh ch�
 *(Chờ khoảng 30s để App khởi động lần đầu)*
 
 ---
-
+## 📊 Dữ liệu huấn luyện (Dataset)
+Mô hình được huấn luyện dựa trên bộ dữ liệu **UIT-VSFC** (Vietnamese Students' Feedback Corpus).
+- **Nguồn:** [uitnlp/vietnamese_students_feedback](https://huggingface.co/datasets/uitnlp/vietnamese_students_feedback)
+- **Mô tả:** Bộ dữ liệu chứa hơn 16.000 câu phản hồi của sinh viên đại học, gán nhãn về cảm xúc (Sentiment) và chủ đề (Topic).
+  
 ## 🚀 Tính năng
 - Phân loại văn bản tiếng Việt tự động.
 - **3 Nhãn cảm xúc:**
